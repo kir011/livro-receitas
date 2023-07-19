@@ -1,6 +1,8 @@
 # parmegiana 
 
-Ingredientes principais:
+**Ingredientes principais**
+
+
 
 - Peito de frango (ou filé de frango) em quantidade suficiente para servir as porções desejadas.
 
@@ -22,7 +24,7 @@ Temperos para o frango (opcional, para marinar antes de empanar):
 - Sal
 - Pimenta-do-reino
 - Alho em pó
-- Paprica ou páprica doce (opcional)
+- Páprica ou páprica doce (opcional)
 
 Observações:
 
